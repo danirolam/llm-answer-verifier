@@ -1,0 +1,36 @@
+MEDICATION POLICY: Acme Health Insurance
+==========================================
+Document ID: POL-2025-MED-001
+Effective Date: January 1, 2025
+
+SECTION 1: GENERAL COVERAGE RULES
+-----------------------------------
+1.1  All prescription medications must be prescribed by a licensed physician.
+1.2  Generic medications are covered at 90% of the cost.
+1.3  Brand-name medications are covered at 70% of the cost.
+1.4  Over-the-counter (OTC) medications are NOT covered.
+
+SECTION 2: DOSAGE LIMITS
+--------------------------
+2.1  The maximum covered dosage of Atorvastatin (Lipitor) is 80 mg per day.
+2.2  The maximum covered dosage of Metformin is 2000 mg per day.
+2.3  The maximum covered dosage of Ibuprofen is 1200 mg per day.
+2.4  For patients under 18 years of age, the maximum covered dosage of 
+     Ibuprofen is reduced to 600 mg per day.
+2.5  For patients under 12 years of age, Atorvastatin is NOT covered.
+
+SECTION 3: PRIOR AUTHORIZATION
+--------------------------------
+3.1  Medications costing more than $500 per month require prior authorization.
+3.2  Specialty medications always require prior authorization regardless of cost.
+3.3  Prior authorization requests must be submitted at least 14 days before 
+     the prescription fill date.
+3.4  Prior authorization is valid for 12 months from the approval date.
+
+SECTION 4: REFILL POLICY
+--------------------------
+4.1  Standard prescriptions may be refilled up to 5 times.
+4.2  Controlled substances (Schedule II-V) may be refilled up to 3 times.
+4.3  Refills must be requested no earlier than 7 days before the current 
+     supply runs out.
+4.4  Mail-order prescriptions allow a 90-day supply per fill.
